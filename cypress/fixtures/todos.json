@@ -18,5 +18,10 @@
     "id": 4,
     "name": "Make French Toast",
     "isComplete": false
+  },
+  {
+    "id": 5,
+    "name": "Make cuban Toast",
+    "isComplete": true
   }
 ]
